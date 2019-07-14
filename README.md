@@ -5,12 +5,18 @@ Sqlite-Java
 
 ![Screen Shot 2019-07-14 at 6 20 24 PM (2)](https://user-images.githubusercontent.com/33853565/61190057-1de50700-a664-11e9-8270-bf3e594e8145.png)
 
+## Install
+<a href="https://bitbucket.org/xerial/sqlite-jdbc/downloads/">Download Sqlites Jar-file Here</a>
+<a href="https://jar-download.com/artifacts/com.google.code.gson/gson/2.8.2/source-code">Download Geson Jar-file Here</a>
 
-### Description
+## How to use
+<p> Just add these two jar files to your projects. Then, you will be able to compile it </p>
+
+## Description
 
 <p> This program demonstrate on how to use java JDBC API to connect to Sqlite database to perform adding, deleting, and modifying. It also allow the user to save the data as json too. </p>
 
-### Output
+## Output
 
 Display all data in ArrayList after inserting:<br/>
 {id:1name:johnsex:male}<br/>
@@ -52,4 +58,6 @@ Display ArrayList after updating Student Number 3<br/>
 {id:3name:Cenasex:female}<br/>
 {id:5name:john5sex:male}<br/>
 Data has been saved as Json<br/>
+
+
 
