@@ -6,8 +6,8 @@ Sqlite-Java
 ![Screen Shot 2019-07-14 at 6 20 24 PM (2)](https://user-images.githubusercontent.com/33853565/61190057-1de50700-a664-11e9-8270-bf3e594e8145.png)
 
 ## Install
-<a href="https://bitbucket.org/xerial/sqlite-jdbc/downloads/">Download Sqlites Jar-file Here</a>
-<a href="https://jar-download.com/artifacts/com.google.code.gson/gson/2.8.2/source-code">Download Geson Jar-file Here</a>
+<a href="https://bitbucket.org/xerial/sqlite-jdbc/downloads/">Download Sqlites Jar-file Here</a> </br>
+<a href="https://jar-download.com/artifacts/com.google.code.gson/gson/2.8.2/source-code">Download Geson Jar-file Here</a> </br>
 
 ## How to use
 <p> Just add these two jar files to your projects. Then, you will be able to compile it </p>
